@@ -20,3 +20,23 @@ projeto-ester-content-hub/
 │
 └── assets/
     └── imagens/
+        ├── logo.png
+        └── wireframes/
+            ├── homepage.png
+            └── pagina-conteudo.png
+
+README.md: Introdução ao projeto e visão geral.
+docs/visao-geral.md: Descrição detalhada do projeto e seus objetivos.  
+docs/backlog.md: Lista de tarefas e funcionalidades a serem desenvolvidas.
+docs/planejamento-semanal.md: Planejamento das atividades semanais.
+docs/fluxo-conteudo.md: Processo de criação e publicação de conteúdo.
+design/identidade-visual.md: Diretrizes de identidade visual do projeto.
+design/referencias.md: Referências visuais e inspirações.
+processos/kanban.md: Metodologia Kanban aplicada ao projeto.
+processos/checklist-publicacao.md: Checklist para publicação de conteúdo.
+roadmap/roadmap-90-dias.md: Plano de desenvolvimento para os primeiros 90
+    dias do projeto.
+assets/imagens/logo.png: Logotipo do projeto.
+assets/imagens/wireframes/homepage.png: Wireframe da página inicial.
+assets/imagens/wireframes/pagina-conteudo.png: Wireframe da página de conteúdo.
+
