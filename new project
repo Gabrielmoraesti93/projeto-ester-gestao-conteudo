@@ -1,0 +1,22 @@
+projeto-ester-content-hub/
+│
+├── README.md
+├── docs/
+│   ├── visao-geral.md
+│   ├── backlog.md
+│   ├── planejamento-semanal.md
+│   ├── fluxo-conteudo.md
+│
+├── design/
+│   ├── identidade-visual.md
+│   └── referencias.md
+│
+├── processos/
+│   ├── kanban.md
+│   ├── checklist-publicacao.md
+│
+├── roadmap/
+│   └── roadmap-90-dias.md
+│
+└── assets/
+    └── imagens/
