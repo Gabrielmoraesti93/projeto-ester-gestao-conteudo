@@ -37,3 +37,14 @@ documentação e acompanhamento de entregas.
 As demandas são registradas como Issues, priorizadas
 conforme valor e acompanhadas de forma transparente,
 simulando práticas comuns em times ágeis e de gestão.
+
+
+## 📋 Gestão de Demandas e Kanban
+As demandas do projeto são registradas como Issues e
+acompanhadas por meio de um quadro Kanban no GitHub Projects.
+
+O Kanban permite:
+- Visualização do status das demandas
+- Priorização baseada em valor
+- Transparência para a stakeholder
+- Rastreabilidade das entregas
