@@ -26,3 +26,14 @@ O projeto representa uma demanda conduzida junto a uma stakeholder fictícia cha
 
 ## 📈 Status do Projeto
 Em evolução contínua, com novas demandas sendo simuladas e documentadas.
+
+
+## 🧠 Simulação de Ambiente Real
+Este projeto foi estruturado para simular um cenário real
+de trabalho com stakeholder, utilizando o GitHub como
+ferramenta central para organização de demandas,
+documentação e acompanhamento de entregas.
+
+As demandas são registradas como Issues, priorizadas
+conforme valor e acompanhadas de forma transparente,
+simulando práticas comuns em times ágeis e de gestão.
