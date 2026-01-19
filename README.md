@@ -28,3 +28,18 @@ Este projeto tem como objetivo organizar, planejar e executar a produção de co
 
 ## 📌 Status
 Projeto em evolução contínua.
+---
+
+## 📚 Documentação do Projeto
+
+- 📄 Visão Geral: `docs/visao-geral.md`
+- 📄 Backlog: `docs/backlog.md`
+- 📄 Processo Kanban: `processos/kanban.md`
+- ✅ Checklist de Publicação: `processos/checklist-publicacao.md`
+- 🗺 Roadmap 90 dias: `roadmap/roadmap-90-dias.md`
+
+---
+
+## 🚀 Evolução Contínua
+Este projeto é atualizado de forma incremental, com foco em
+organização, clareza e melhoria contínua do processo de produção de conteúdo.
